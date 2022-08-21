@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605813403819",
+    "project_id": "gjobs-fc5cd",
+    "storage_bucket": "gjobs-fc5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605813403819:android:70d0f545018290d3fe47ee",
+        "android_client_info": {
+          "package_name": "com.example.gjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605813403819-0jtohndgjqubrk27ha8pirrg8jp1805k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozimu3s_0V0exs0XCL2dnjNgOH1lpd5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605813403819-0jtohndgjqubrk27ha8pirrg8jp1805k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
